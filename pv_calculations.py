@@ -213,8 +213,8 @@ class CellModule:
 
         )
 
-class Inverter:
-    def __init__(self, strings, )
+#class Inverter:
+#    def __init__(self, strings, )
 
 pv = Radiation(170,33.69,'San Diego','Roof mounted',shading_losses)
 pv.total_annual_energy(8105)
